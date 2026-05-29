@@ -25,3 +25,16 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+# LLM guides / instructions (keep private even in public repo)
+# Note: CLAUDE.md is NOT ignored — it's a minimal bootstrap (tech orientation + memory setup)
+#       committed on purpose so Claude on a fresh PC knows to ask for the Dropbox memory path.
+#       Sensitive editorial/branding content lives in the external memory folder, never in the repo.
+CLAUDE.local.md
+AGENTS.md
+GEMINI.md
+.claude/
+.cursor/
+.cursorrules
+.aider*
+.windsurfrules
