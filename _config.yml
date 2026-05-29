@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Lim Younggoong (임영웅) # the main title
+title: Lim Younggoong # the main title
 
-tagline: 제조 IT/OT를 잇다 — 스마트팩토리 · ERP/설비 연동 · 데이터·AI
+tagline: Bridging IT and OT in manufacturing
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -32,7 +32,7 @@ twitter:
   username: 
 
 social:
-  name: Lim Younggoong (임영웅)
+  name: Lim Younggoong
   email: liman_korea@naver.com
   fediverse_handle:
   links:
